@@ -1,0 +1,21 @@
+{
+    "blogs": [
+    {
+        "title": "My New Website", 
+        "body": "lsflsfjsla sfssf", 
+        "author": "Mario", "id": 1
+    },
+    {
+        "title": "My New Project", 
+        "body": "my new blog sflafslfj",
+        "author": "Madusanka", 
+        "id": 2
+    },
+    {
+        "title": "New web page", 
+        "body": "new web page .....", 
+        "author": "Mario", 
+        "id": 3
+    }
+    ]
+}
